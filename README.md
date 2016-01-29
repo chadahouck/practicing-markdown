@@ -4,4 +4,4 @@ As you know, every year from October 15 to December 7, seniors are given the opt
 _**[Here's a link](www.agentsurvivalguide.com)**_ to read the rest of this topic. 
 > GitHub will not be hard to learn. - Chad Houck
 - [x] This is a complete item
-- [ ] This item is not yet complete. 
+- [x] This item is now complete. 
